@@ -1,0 +1,8 @@
+# Not versioned folders
+.vs/
+bin/
+obj/
+packages/
+
+# Not versioned files
+*.user
